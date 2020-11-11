@@ -14,7 +14,7 @@ Restaurant.destroy_all
 puts 'Creating restaurants...'
 dishoom = { name: 'Dishoom', address: '7 Boundary St, London E2 7JE', phone_number: '999-888', category: 'chinese' }
 pizza_east = { name: 'Pizza East', address: '56A Shoreditch High St', phone_number: '999-777', category: 'italian' }
-bonici = { name: 'Pizza Bonici', address: 'Balma 31130', phone_number: '999-666', category: 'italien' }
+bonici = { name: 'Pizza Bonici', address: 'Balma 31130', phone_number: '999-666', category: 'italian' }
 sushi_shop = { name: 'Sushi shop', address: 'Lyon 03', phone_number: '999-555', category: 'japanese' }
 berliner = { name: 'Mont Berliner', address: 'Lyon 01', phone_number: '999-444', category: 'french' }
 

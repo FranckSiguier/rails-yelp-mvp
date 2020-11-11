@@ -45,3 +45,5 @@ gem 'rspec-rails', '4.0.0.beta3', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
 
 gem "simple_form", "~> 5.0"
+gem 'autoprefixer-rails'
+gem 'font-awesome-sass', '~> 5.6.1'
